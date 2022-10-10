@@ -1,7 +1,5 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -
-
-from multiprocessing import Value
 from tkinter import *
 from tkinter import messagebox
 from tkinter import ttk
